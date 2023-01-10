@@ -1,29 +1,27 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
+    "siteUrl": "https://caelan.gatsbyjs.io/",
+    "title": "Caelan Kleinhans",
+    "titleTemplate": "%s · Caelan Kleinhans",
+    "description": "Caelan's personal website showcasing projects and work.",
+    "author": "Caelan Kleinhans",
+    "avatar": "./images/headshot.jpg",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/ckleinhans",
+      "linkedin": "https://www.linkedin.com/in/caelan-kleinhans",
+      "mail": "mailto:ckleinhans@wisc.edu"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Caelan Kleinhans" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact Me", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -32,7 +30,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Terms", "url": "/terms" }
       ]
     },
     "featureToggles": {

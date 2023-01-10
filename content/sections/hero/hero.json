@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hello!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/headshot.jpg",
+    "alt": "My Headshot"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Caelan.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "I write ",
+    "highlight": "full stack",
+    "suffix": " code."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "After graduating from UW-Madison I'll start work at Meta in the Bay Area.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
