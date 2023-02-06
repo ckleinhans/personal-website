@@ -18,12 +18,12 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" heading="My Skills" />
-        <ArticlesSection
+        {/* <ArticlesSection
           sectionId="articles"
           heading="Latest Articles"
           sources={["Blog"]}
-        />
-        <ProjectsSection sectionId="projects" heading="My Projects" />
+        /> */}
+        {/* <ProjectsSection sectionId="projects" heading="My Projects" /> */}
         <ContactSection sectionId="contact" heading="Contact Me" />
       </Page>
     </>

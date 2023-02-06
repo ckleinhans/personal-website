@@ -15,16 +15,23 @@
       }
     },
     {
-      "label": "Travel",
+      "label": "Java",
       "image": {
-        "src": "../../images/mountain.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
-      "label": "Gaming",
+      "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C",
+      "image": {
+        "src": "../../images/c.png",
         "alt": ""
       }
     }

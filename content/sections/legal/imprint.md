@@ -2,4 +2,4 @@
 sectionId: terms
 ---
 
-Terms Markdown Content
+Terms have yet to be defined for this website.

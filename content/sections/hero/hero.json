@@ -1,8 +1,8 @@
 {
   "intro": "Hello!",
   "heroPhoto": {
-    "src": "../../images/headshot.jpg",
-    "alt": "My Headshot"
+    "src": "../../images/headshot-square.jpg",
+    "alt": "Headshot"
   },
   "image": {
     "src": "../../images/waving-hand.png",
@@ -14,7 +14,7 @@
     "highlight": "full stack",
     "suffix": " code."
   },
-  "description": "After graduating from UW-Madison I'll start work at Meta in the Bay Area.",
+  "description": "Incoming SWE at Meta, graduating from UW-Madison in May.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true

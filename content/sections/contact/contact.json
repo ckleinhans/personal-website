@@ -3,8 +3,8 @@
   "email": "ckleinhans@wisc.edu",
   "description": "Have a question or just want to say hi? Reach out and I’ll try my best to get back to you!",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "C Logo"
+    "src": "../../images/headshot-square.jpg",
+    "alt": "Headshot"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],

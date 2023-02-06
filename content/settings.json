@@ -19,8 +19,6 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Projects", "url": "/#projects" },
         { "label": "Contact Me", "url": "/#contact" }
       ],
       "ctaButton": {
